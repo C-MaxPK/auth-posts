@@ -1,7 +1,8 @@
 # Тестовое задание
 
 
-### `npm start`
+### установка `npm install`
+### запуск `npm start`
 
-login: admin
+login: admin, 
 pass: 12345
