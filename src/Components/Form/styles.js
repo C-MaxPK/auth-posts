@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const AuthForm = styled.form`
-	margin: 229px auto 0;
+	margin: 100px auto 0;
 	max-width: 480px;
 	border: 5px solid #27569C;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
